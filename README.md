@@ -43,25 +43,25 @@ Here are some ideas to get you started:
 
 ###
 
+
+
 <div align="left">
+     
+     <a href="[https://www.facebook.com/maicon.miranda.58](https://www.facebook.com/sultanwebdev)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+     
   <a href="https://www.linkedin.com/in/maicon-miranda/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/maiconmmj/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/maicon.miranda.58" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  
      
-  <a href="maicon.miranda77@hotmail.com" target="_blank">
-    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg](https://user-images.githubusercontent.com/54618801/63845533-ac1b0f80-c9bc-11e9-9d37-e2e03e4d2aee.png)" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+  
 
-     <a href="greenviewsoft@gmail.com" target="_blank">
-    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg](https://user-images.githubusercontent.com/54618801/63845533-ac1b0f80-c9bc-11e9-9d37-e2e03e4d2aee.png)" width="52" height="40" alt="facebook logo"  />
-  </a>
-     
+  
 
 </div>
 
