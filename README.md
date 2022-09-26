@@ -1,14 +1,14 @@
-### Hi there   IM MD TIPU SULTAN From GREEN VIEW SOFT 
-👋
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
+My name is Md Tipu Sultan and i'm a Fullstack PHP Laravel Developer + Owner of Greenviewsoft.com, from  Dhaka, Bangladesh.
 
 **greenviewsoft/greenviewsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+-  🔭I’m Owner of  [GreenViewSoft](https://greenviewsoft.com)
+- 🔭 I’m currently working on [Laravel](https://laravel.com)
+- 🌱 I’m currently learning [Laravel & React](https://laravel.com)
+- 👯 I’m looking to collaborate on [Laravel & React](https://greenviewsoft.com)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
