@@ -2,8 +2,6 @@
 
 My name is Md Tipu Sultan and i'm a Fullstack PHP Laravel Developer + Owner of Greenviewsoft.com, from  Dhaka, Bangladesh.
 
-**greenviewsoft/greenviewsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -  🔭I’m Owner of  [GreenViewSoft](https://greenviewsoft.com)
 - 🔭 I’m currently working on [Laravel](https://laravel.com)
