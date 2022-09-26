@@ -12,15 +12,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:  He/His
+- ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/greenviewsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="greenviewsoft" height="30" width="40" /></a>
+  	<a class="facebookBtn smGlobalBtn" href="#" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
