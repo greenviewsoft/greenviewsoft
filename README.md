@@ -59,10 +59,6 @@ Here are some ideas to get you started:
 
 </div>
 
-###
-
-![Snake animation](https://github.com/MaiconMJ/MaiconMJ/blob/output/github-contribution-grid-snake.svg)
-###
 
 
 
@@ -71,3 +67,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/greenviewsoft"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="greenviewsoft" /></a></p><br><br>
+
+
+###
+
+![Snake animation](https://github.com/MaiconMJ/MaiconMJ/blob/output/github-contribution-grid-snake.svg)
+###
