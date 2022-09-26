@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ###
-
+##Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
@@ -55,16 +55,10 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Contact me:</p>
 
 ###
 
 
-
-###
-
-![Snake animation](https://github.com/MaiconMJ/MaiconMJ/blob/output/github-contribution-grid-snake.svg)
-###
 
 
 
