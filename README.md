@@ -7,14 +7,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Laravel](https://laravel.com)
 - 🌱 I’m currently learning [Laravel & React](https://laravel.com)
 - 👯 I’m looking to collaborate on [Laravel & React](https://greenviewsoft.com)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns:  He/His
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg>
 
 
 
@@ -35,6 +31,11 @@ Here are some ideas to get you started:
   <a href="maicon.miranda77@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
+  <p align="left">
+<a href="https://dev.to/greenviewsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="greenviewsoft" height="30" width="40" /></a>
+  	<a class="facebookBtn smGlobalBtn" href="#" ></a>
+</p>
+
 </div>
 
 ###
@@ -42,10 +43,6 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/MaiconMJ/MaiconMJ/blob/output/github-contribution-grid-snake.svg)
 ###
 
-<p align="left">
-<a href="https://dev.to/greenviewsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="greenviewsoft" height="30" width="40" /></a>
-  	<a class="facebookBtn smGlobalBtn" href="#" ></a>
-</p>
 
 
 
