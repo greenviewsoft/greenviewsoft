@@ -1,12 +1,12 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-My name is Md Tipu Sultan and i'm a Fullstack  Developer 
+My name is Md Tipu Sultan and i'm a Fullstack  Developer @ Greenviewsoft
 
 Here are some ideas to get you started:
 -  🔭I’m Owner of  [GreenViewSoft](https://greenviewsoft.com)
-- 🔭 I’m currently working on [Laravel](https://laravel.com)
-- 🌱 I’m currently learning [Laravel & React](https://laravel.com)
-- 👯 I’m looking to collaborate on [Laravel & React](https://greenviewsoft.com)
+- 🔭 I’m currently working on [Laravel & Wordpress](https://laravel.com)
+- 🌱 I’m currently learning [Laravel & Vue js ](https://laravel.com)
+- 👯 I’m looking to collaborate on [Laravel & Vue js](https://greenviewsoft.com)
 - 😄 Pronouns:  He/His
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
